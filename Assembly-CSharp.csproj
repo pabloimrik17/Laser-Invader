@@ -45,6 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Entities\Enemy\EnemyController.cs" />
+     <Compile Include="Assets\Entities\Player\PlayerController.cs" />
+     <Compile Include="Assets\Scritps\EnemyFormationController.cs" />
      <Compile Include="Assets\Scritps\LevelManager.cs" />
      <Compile Include="Assets\Scritps\MusicPlayer.cs" />
      <None Include="Assets\SpaceShooterRedux\license.txt" />
