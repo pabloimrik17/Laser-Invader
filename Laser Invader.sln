@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3BB9B21F-45C8-13AD-A7FA-BF264633CA2F}") = "Laser Invader", "Assembly-CSharp.csproj", "{941A70BB-034B-40CE-E838-22EA6B33A310}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941A70BB-034B-40CE-E838-22EA6B33A310}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941A70BB-034B-40CE-E838-22EA6B33A310}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941A70BB-034B-40CE-E838-22EA6B33A310}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941A70BB-034B-40CE-E838-22EA6B33A310}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
